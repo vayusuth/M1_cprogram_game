@@ -109,7 +109,7 @@ int checkwin()
 
 void board()
 {
-    system("cls");
+system("cls");
     printf("\n\n\tTic Tac Toe\n\n");
 
     printf("Player 1 (X)  -  Player 2 (O)\n\n\n");
